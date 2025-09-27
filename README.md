@@ -64,15 +64,15 @@ The system is modeled after the **Databricks Lakehouse + Medallion pattern**:
 
 ### Medallion Flow
 
-![Data Flow](./Data%20Set/df8555fe-1522-4d85-a99d-6b6d0a549616.png)
+![Data Flow](./images/Medallion%20Flow.png)
 
 ### Fitness Event Streams → Tables
 
-![Event Flow](images\Lakehouse architecture.png) 
+![Event Flow](./images/Lakehouse%20architecture.png) 
 
 ### Lakehouse Components
 
-![Databricks Lakehouse](./Data%20Set/databricks.png)
+![Databricks Lakehouse](./images/databricks.png)
 
 ---
 
