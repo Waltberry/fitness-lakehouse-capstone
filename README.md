@@ -11,7 +11,7 @@ The code is designed for demonstration, learning, and adaptation.
 ---
 
 ## 📂 Repository Structure
-
+```
 fitness-lakehouse-capstone/
 │
 ├── Data Set/ # Synthetic input files (CSV/JSON) for tests
@@ -38,7 +38,7 @@ fitness-lakehouse-capstone/
 │ └── deploy-notebooks.sh
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
